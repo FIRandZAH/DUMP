@@ -86,7 +86,7 @@ def zara(id):
     if zahra == '1':
         asi()
     elif zahra == '2':
-        os.system("xdg-open https://wa.me/+6289673673476?text=halo+kak")
+        os.system("xdg-open https://wa.me/+6283170597744?text=halo+kak")
         log_zar()
     else:
         log_zar()
